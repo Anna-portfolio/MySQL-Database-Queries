@@ -6,8 +6,7 @@ An example of corporate databases along with queries overview using MySQL.
 
 ![database_img02](https://user-images.githubusercontent.com/75646880/110221722-3572a280-7ece-11eb-8f67-0cb5af27fce5.PNG)
 
-![database_img03](https://user-images.githubusercontent.com/75646880/110221724-360b3900-7ece-11eb-8f7a-283cd5a48f0b.PNG)
-
+![database_img03](https://user-images.githubusercontent.com/75646880/110221762-710d6c80-7ece-11eb-92da-9ebc1bac9780.PNG)
 
 INFO: This repository is intended to give an insight into creating & manipulating data in MySQL. No supplementary front- nor back-end is anticipated at the moment.
 
