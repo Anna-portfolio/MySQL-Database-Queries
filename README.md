@@ -1,5 +1,14 @@
 # MySQL-Database-Queries
 An example of corporate databases along with queries overview using MySQL.
+
+
+![database_img01](https://user-images.githubusercontent.com/75646880/110221721-34417580-7ece-11eb-9001-97e6b60b36af.PNG)
+
+![database_img02](https://user-images.githubusercontent.com/75646880/110221722-3572a280-7ece-11eb-8f67-0cb5af27fce5.PNG)
+
+![database_img03](https://user-images.githubusercontent.com/75646880/110221724-360b3900-7ece-11eb-8f7a-283cd5a48f0b.PNG)
+
+
 INFO: This repository is intended to give an insight into creating & manipulating data in MySQL. No supplementary front- nor back-end is anticipated at the moment.
 
 The file "00_Database_Create-db" creates two databases: Company's Employees (tables: employees, department, HR data, benefits) and Company's Suppliers (tables: suppliers, orders and costs).
