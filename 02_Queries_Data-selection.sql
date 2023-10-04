@@ -2,6 +2,7 @@
 
 -- QUERIES #2: DATA SELECTION
 
+
 -- selects all from a given table
 SELECT * FROM `company_employees`.`employees`;
 
