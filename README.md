@@ -17,6 +17,5 @@ The remaining files gives an overview of the MySQL queries. All the queries are 
 - 02_Queries_Data-selection: data selection & manipulation;
 - 03_Queries_Joins: joining data;
 - 04_Queries_Numeric_Functions: arithmetic operations on the data.
-- *** to be continued ***
 
 DISCLAIMER: All the data used in these databases are fictitious. Any similarity to any data is entirely coincidental.
